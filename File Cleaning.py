@@ -18,7 +18,7 @@ def clean_data(file):
 
     df = df.dropna()
 
-    df.to_csv(f"{file}", index=False)
+    df.to_csv(f"CLEAN {file}", index=False)
 
 
-clean_data("AMR Sex, Age - ESPAUR-2024-2025.csv")
+clean_data("AMR 2024.csv")
