@@ -1,10 +1,10 @@
-﻿Region,PHE Centre,AMR Burden rate per 100000 population,Total incidence rate per 100000 population
-North of England,North East,25.3,181.4
-North of England,North West,29.4,150.0
-North of England,Yorkshire and Humber,25.5,158.2
-Midlands and East of England,East of England,25.8,120.5
-Midlands and East of England,East Midlands,20.5,131.6
-Midlands and East of England,West Midlands,26.1,138.1
-London,London,37.8,134.6
-South of England,South East,28.0,138.2
-South of England,South West,22.8,148.6
+﻿Local area region,Rate per 100000 population resistant bloodstream infections,Total incidence rate per 100000 population
+North East,25.3,181.4
+North West,29.4,150.0
+Yorkshire and Humber,25.5,158.2
+East of England,25.8,120.5
+East Midlands,20.5,131.6
+West Midlands,26.1,138.1
+London,37.8,134.6
+South East,28.0,138.2
+South West,22.8,148.6
