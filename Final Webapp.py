@@ -51,7 +51,6 @@ def gradient_bar_chart(series, order=None, scheme="blues", title=""):
 # TOP-LEVEL 3-COLUMN LAYOUT
 # ---------------------------------------------------------------
 
-
 st.title("Antibiotic Resistance Analysis")
 section1, section2, section3 = st.columns([2, 1.3, 2])
 
